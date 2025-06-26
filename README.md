@@ -4,6 +4,17 @@ A simple desktop application built using CustomTkinter and `pdf2docx` for conver
 I created this app for my personal use. 
 ---
 
+## 🎯 Tech Stack
+
+| Technology | Description |
+|------------|-------------|
+| ![Python](assets/python-logo.png) **Python** | Core scripting & logic |
+| ![CustomTkinter](assets/customtkinter-logo.png) **CustomTkinter** | Sleek themed UI |
+| ![ChatGPT](assets/chatgpt-logo.png) **ChatGPT** | Development assistance |
+| ![VS Code](assets/vscode-logo.png) **VS Code** | IDE used during development |
+
+---
+
 ## 🚀 Features
 
 - Modern GUI with CustomTkinter  
