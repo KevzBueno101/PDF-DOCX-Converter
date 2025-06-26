@@ -6,12 +6,8 @@ I created this app for my personal use.
 
 ## 🎯 Tech Stack
 
-| Technology | Description |
-|------------|-------------|
-| ![Python](assets/python-logo.png) **Python** | Core scripting & logic |
-| ![CustomTkinter](assets/customtkinter-logo.png) **CustomTkinter** | Sleek themed UI |
-| ![ChatGPT](assets/chatgpt-logo.png) **ChatGPT** | Development assistance |
-| ![VS Code](assets/vscode-logo.png) **VS Code** | IDE used during development |
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Tkinter](https://img.shields.io/badge/Tkinter-FFB200?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
