@@ -31,8 +31,8 @@ https://github.com/KevzBueno101/PDF-DOCX-Converter/blob/main/demo-pic.png
 
 Watch a quick demo of the conversion process:
 
+https://github.com/KevzBueno101/PDF-DOCX-Converter/blob/main/output_vid.mp4
 
-[::contentReference[oaicite:0]{index=0}](https://github.com/KevzBueno101/PDF-DOCX-Converter/blob/main/output_vid.mp4)
 
 
 ---
