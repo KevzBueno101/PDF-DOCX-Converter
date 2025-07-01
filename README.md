@@ -2,7 +2,7 @@
 
 A simple stand-alone desktop application built using CustomTkinter and `pdf2docx` for converting PDF files into editable DOCX documents on Windows.
 I created this app for my personal use.
-_Disclaimer: The output of this app may not be 100% perfect and accurate but you can do a bit of modification in the final docx file._
+_Disclaimer: The output of this app may not be 100% perfect and accurate so you need to do a bit of modification in the final docx file._
 ---
 
 ## 🎯 Tech Stack
