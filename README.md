@@ -55,5 +55,5 @@ https://github.com/KevzBueno101/PDF-DOCX-Converter/blob/main/demo-vid.mp4
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/YourUserName/pdf-converter.git
-   cd pdf-converter
+   git clone https://github.com/KevzBueno101/PDF-DOCX-converter.git
+   cd PDF-DOCX-converter
