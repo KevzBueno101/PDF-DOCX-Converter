@@ -4,7 +4,7 @@ A simple, easy and intuitive stand-alone desktop application built using CustomT
 I created this app for my personal use.
 _Disclaimer: The output of this app may not be 100% perfect and accurate so you need to do a bit of modification in the final docx file._
 
->When were given a copy of a PDF that we needed to fill out. I couldn't fill it out because it was in .pdf format, so I had to convert it to a Word (.docx) file. Since that time I'm exploring Python Tkinter (desktop app development) I thought of creating an app to solve my problem. I tried using online converter but I'm annoyed of the adds and also it has limited access—needed to upgrade into pro.
+> A short story behind this development: When were given a copy of a PDF that we needed to fill out. I couldn't fill it out because it was in .pdf format, so I had to convert it to a Word (.docx) file. Since that time I'm exploring Python Tkinter (desktop app development) I thought of creating an app to solve my problem. I tried using online converter but I'm annoyed of the adds and also it has limited access—needed to upgrade into pro.
 
 
 ---
